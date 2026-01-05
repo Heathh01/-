@@ -1,0 +1,5 @@
+{
+  "name": "CareerAI Coach",
+  "description": "A comprehensive AI-powered career coaching application featuring resume refinement, virtual internship generation, and interview simulation using Gemini and OpenAI compatible APIs.",
+  "requestFramePermissions": []
+}
